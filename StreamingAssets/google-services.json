@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "547073235354",
+    "project_id": "alien-attack-idle",
+    "storage_bucket": "alien-attack-idle.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547073235354:android:d4fb021dd310622d8a8223",
+        "android_client_info": {
+          "package_name": "NjordGames.idle.alien.sandbox.AlienAttackIdleSimulator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkW0HsMwkwT4PSXTJSD32wc6iGQumUygc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
